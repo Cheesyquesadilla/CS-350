@@ -10,4 +10,4 @@
 * What skills from this project will be particularly transferable to other projects and/or course work?
     - I feel that what I've learned from these experiences will better set me up for my next course in particular. I'm unsure about future coursework.
 * How did you make this project maintainable, readable, adaptable?
-      - These projects are readable thanks to the comments and naming variabls, functions, and state machine states in a way that told anyone what they were for. Other than that I wouldn't say the projects are maintainable or adaptable.
+    - These projects are readable thanks to the comments and naming variabls, functions, and state machine states in a way that told anyone what they were for. Other than that I wouldn't say the projects are maintainable or adaptable.
